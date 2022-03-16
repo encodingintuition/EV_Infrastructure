@@ -29,7 +29,7 @@ Unlike gasoline fueling stations, EV charging stations are not ubiquitous across
 
 
 
-<img src="../img/ev_chargingConnector-02-afdc_energy_gov.png" width="100%" align="center"/> U.S. Department of Energy </a>
+<img src="/img/ev_chargingConnector-02-afdc_energy_gov.png" width="100%" align="center"/> U.S. Department of Energy </a>
 
 
-<img src="../img/ev_chargingstation-01-afdc_energy_gov.png" width="100%" align="center"/>U.S. Department of Energy </a>
+<img src="/img/ev_chargingstation-01-afdc_energy_gov.png" width="100%" align="center"/>U.S. Department of Energy </a>
