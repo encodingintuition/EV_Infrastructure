@@ -23,17 +23,25 @@ Unlike gasoline fueling stations, EV charging stations are not ubiquitous across
 * Seaborn, Matplotlib
 * folium 
 
-# Data Sources
+### Data Sources
+
+- US Charging Stations Dataset
+    - https://afdc.energy.gov/fuels/electricity_locations.html#/analyze?country=US&fuel=ELEC&ev_levels=all 
+- Austin TX Charging Stations Dataset
+    - https://data.world/cityofaustin/k5hp-eece
 - Boston Charging Station DataSet
     - https://data.boston.gov/dataset/charging-stations1
 
 
+## Project Description
 
-# Charging Stations
+
+
+## Charging Stations
 
 <img src="/img/ev_chargingstation-01-afdc_energy_gov.png" width="100%" align="center"/>U.S. Department of Energy </a>
 
 
-# Charging 
+## Charging Levels
 
 <img src="/img/ev_chargingConnector-02-afdc_energy_gov.png" width="100%" align="center"/> U.S. Department of Energy </a>
